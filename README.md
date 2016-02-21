@@ -7,11 +7,10 @@ The main difference between the original kit is its capability of driving upto t
 
 ## 3D Renders
 Top
-
-![Board top view.](/master/Artwork/Falcon%20Lights%20Top.png)
+<img align="top" width=175 src="Artwork/Falcon%20Lights%20Top.png" />
 
 Bottom
-![Bottom](/master/Artwork/Falcon%20Lights%20Bottom.png?raw=true)
+<img align="top" width=175 src="AArtwork/Falcon%20Lights%20Bottom.png" />
 
 ## Geek Kids Project
 The board has been developed by electronFUN under the Geek Kids initiative. 
