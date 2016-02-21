@@ -21,7 +21,7 @@ The Geek Kids initiative is a local electroFUN project where we try to bring you
 
 All these projects are released under the Geek Kids logo and are Open Source for everyone to enjoy. 
 
-<img align="top" width=175 src="Artwork/GK.png" />
+<img align="top" width=100 src="Artwork/GK.jpg" />
 
 All the benefits derived from Geek Kids projects will revert back to the initiative and will help them develop more stuff and reachout to more kids.
 
