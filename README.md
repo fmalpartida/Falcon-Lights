@@ -1,2 +1,4 @@
 # Falcon-Lights
-Bandai Millenium Falcon Light kit driver. The driver retrofits into Bandai's Millenium Falcon 1:144 kit.
+Bandai 1:144 Millenium Falcon Light kit driver. 
+
+This is a small board that retorfits into the Bandai 1:144 Millenium Falcon kit.
