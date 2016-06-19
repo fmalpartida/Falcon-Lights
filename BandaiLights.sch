@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.0.0">
+<eagle version="7.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -12321,8 +12321,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <plain>
 <text x="76.2" y="96.52" size="1.778" layer="97">FAN5333B</text>
 <text x="255.778" y="4.064" size="3.81" layer="97">B</text>
-<text x="199.898" y="23.622" size="2.54" layer="97" ratio="10">Model LED lights
-Falcon LEDs</text>
+<text x="166.878" y="23.622" size="2.54" layer="97" ratio="10">Model LED lights
+Falcon LEDs - By: F. Malpartida &amp; GeekKids</text>
 <text x="83.82" y="154.94" size="5.08" layer="97" ratio="10">Battery powered LED lights</text>
 <text x="5.08" y="10.16" size="2.54" layer="97">Released under the CERN Open Hardware Licence v1.2 </text>
 <text x="5.08" y="5.08" size="2.54" layer="97">http://www.ohwr.org/attachments/2388/cern_ohl_v_1_2.txt</text>
