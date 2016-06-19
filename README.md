@@ -17,7 +17,7 @@ Bottom
 ## Geek Kids Project
 The board has been developed by electronFUN under the Geek Kids initiative. 
 
-The Geek Kids initiative is a local electroFUN project where we try to bring youngsters close to technology. Kids under the initiative get exposed to technology, projects while participating in them to bring up to speed for the general public. 
+The Geek Kids initiative is a local electroFUN project where we try to bring youngsters close to technology. Kids under the initiative get exposed to technology projects while participating in them and bring up to speed for sharing with the general public. 
 
 All the benefits derived from Geek Kids projects will revert back to the initiative and will help them develop more stuff and reachout to more kids.
 
@@ -28,7 +28,4 @@ All these projects are released under the Geek Kids logo and are Open Source for
 Stay tunned.
 
 ## Where to get them
-In short you will be able to purchase this fully assembled board directly from electroFUN: [electroFUN on-line store](http://www.electrofunltd.com/p/buy.html "Store")
-
-
-
+We don't have intentions to sell them and encourrage you to build them by yourself. If you would like us to build one for you please let me know by sending me a message, we will be delighted to build one for you.
